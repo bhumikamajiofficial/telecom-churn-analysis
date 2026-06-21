@@ -110,13 +110,6 @@ The analysis includes visualizations such as:
 * Senior Citizen Churn Analysis
 * Service Adoption vs Churn
 
-### Sample Visuals
-
-![Churn Distribution](images/churn_distribution.png)
-
-![Contract Type Analysis](images/contract_churn.png)
-
-![Payment Method Analysis](images/payment_method_churn.png)
 
 ---
 
@@ -163,7 +156,7 @@ Telecom-Customer-Churn-Analysis/
 ├── TelecomChurnAnalysis.ipynb
 ├── telecom_customer_churn.csv
 ├── README.md
-└── images/
+
 ```
 
 ---
@@ -177,4 +170,5 @@ The analysis revealed that customer churn is primarily driven by short tenure, m
 ## Author
 
 **Bhumika Maji**
+
 Data Analytics Enthusiast
