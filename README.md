@@ -20,36 +20,6 @@ The objective of this analysis is to:
 
 ---
 
-## Dataset Information
-
-The dataset contains customer demographic information, account details, subscribed services, and payment-related attributes.
-
-### Key Features
-
-* Gender
-* Senior Citizen
-* Partner & Dependents
-* Tenure
-* Contract Type
-* Payment Method
-* Monthly Charges
-* Total Charges
-* Internet Services
-* Online Security
-* Online Backup
-* Device Protection
-* Tech Support
-* Streaming Services
-* Churn Status
-
-### Data Cleaning
-
-* Replaced missing values in `TotalCharges` for customers with zero tenure.
-* Converted `TotalCharges` from object to numeric datatype.
-* Verified no duplicate records.
-* Performed exploratory data analysis (EDA) to identify churn patterns.
-
----
 
 ## Key Findings
 
@@ -134,6 +104,37 @@ Encourage Electronic Check users to switch to Auto-Pay or recurring digital paym
 ### Support Senior Citizen Customers
 
 Provide simplified plans, proactive support, and dedicated assistance programs for senior customers.
+
+---
+
+## Dataset Information
+
+The dataset contains customer demographic information, account details, subscribed services, and payment-related attributes.
+
+### Key Features
+
+* Gender
+* Senior Citizen
+* Partner & Dependents
+* Tenure
+* Contract Type
+* Payment Method
+* Monthly Charges
+* Total Charges
+* Internet Services
+* Online Security
+* Online Backup
+* Device Protection
+* Tech Support
+* Streaming Services
+* Churn Status
+
+### Data Cleaning
+
+* Replaced missing values in `TotalCharges` for customers with zero tenure.
+* Converted `TotalCharges` from object to numeric datatype.
+* Verified no duplicate records.
+* Performed exploratory data analysis (EDA) to identify churn patterns.
 
 ---
 
